@@ -1,5 +1,5 @@
-# Csgo-Best-Config-Autoexec
-Csgo-Best-Config-Autoexec
+# Zazzop's Csgo Best Config Autoexec
+
 
 ///////////////////////// Launch Options /////////////////////////  
 -steam -console -novid -nojoy -freq 75 -console -high -tickrate 128 -heapsize 4194304 -nod3d9ex -noaafonts -high +exec autoexec -lv -language pirate +rate 786432 
