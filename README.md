@@ -1,4 +1,4 @@
-# Zazzop's Csgo Best Config-Autoexec
+# CsgoConfig-Autoexec #
 
 
 ///////////////////////// Launch Options /////////////////////////  
