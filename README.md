@@ -18,13 +18,3 @@ In-game Sens : 2.0
 
 
 
-bind "F2" "exec CrossTLG.cfg"
-bind "F3" "exec CrossDevice.cfg"
-bind "F4" "exec CrossElec.cfg"
-bind "F5" "exec CrossZywo.cfg"
-bind "F6" "exec CrossColdzera.cfg"
-bind "F7" "exec CrossM.cfg"
-bind "F8" "exec CrossStewie.cfg"
-bind "F9" "exec CrossX.cfg"
-
-
