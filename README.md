@@ -2,7 +2,7 @@
 
 
 ///////////////////////// Launch Options /////////////////////////  
--steam -console -novid -nojoy -freq 75 -console -high -tickrate 128 -heapsize 4194304 -nod3d9ex -noaafonts -high +exec autoexec -lv -language pirate +rate 786432 
+-steam -console -novid -nojoy -freq 144 -console -high -tickrate 128 -heapsize 4194304 -nod3d9ex -noaafonts -high +exec autoexec -lv -language pirate +rate 786432 
 
 ///////////////////////// Video Settings /////////////////////////  
 In-game res : 1024x768  
