@@ -1,5 +1,6 @@
 # CsgoConfig-Autoexec #
 
+Put all files to cfg folder
 
 ///////////////////////// Launch Options /////////////////////////  
 -steam -console -novid -nojoy -freq 144 -console -high -tickrate 128 -heapsize 4194304 -nod3d9ex -noaafonts -high +exec autoexec -lv -language pirate +rate 786432 
