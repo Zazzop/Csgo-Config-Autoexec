@@ -1,6 +1,7 @@
 # CsgoConfig-Autoexec (FPS Boost, Visual improvements, Recoil Support, 9 Differenet Crosshair(F2 to F9), Improved Sound, Smooth Gameplay, Reduced Input Lag(2023)# 
 
-### Put all files to cfg folder C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg
+### Put all files to cfg folder 
+C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg ###
 
 ## /---------------------- Launch Options -----------------------\  
 -steam -console -novid -nojoy -freq 280 -console -high -tickrate 128 -heapsize 4194304 -nod3d9ex -noaafonts -high +exec autoexec -lv -language pirate +rate 786432 
